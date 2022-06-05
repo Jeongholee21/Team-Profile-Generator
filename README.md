@@ -16,7 +16,7 @@ https://drive.google.com/file/d/1W8t8xHt6FuARZW1cLb0kwF90XLpON3nx/view
 
 # Screenshots
 
-<https://github.com/Jeongholee21/Team-Profile-Generator/blob/main/dist/Screen%20Shot%202022-06-05%20at%2012.21.36%20PM.png>
+![Screenshot](https://github.com/Jeongholee21/Team-Profile-Generator/blob/main/dist/Screen%20Shot%202022-06-05%20at%2012.21.36%20PM.png)
 
 ## User Stroy
 
