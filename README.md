@@ -4,7 +4,13 @@
 # Description
 ## It helps to generate my team members' information and display it to the webpage.
 
-# Live Website
+# Features
+- JavaScript
+- Node.js
+- jest
+- npm
+
+# Video Demo
 
 ## User Stroy
 
