@@ -11,8 +11,8 @@
 - npm
 
 # Video Demo
-
-![Video](https://drive.google.com/file/d/1W8t8xHt6FuARZW1cLb0kwF90XLpON3nx/view)
+The video link is below
+https://drive.google.com/file/d/1W8t8xHt6FuARZW1cLb0kwF90XLpON3nx/view
 
 # Screenshots
 
